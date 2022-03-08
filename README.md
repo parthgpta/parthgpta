@@ -8,7 +8,7 @@
   </a>&nbsp;&nbsp;
 </p>
 
- <h4  >Hi , I am a Pre-final year student at IIIT Jabalpur. I am a self-taught developer , and loves to explore new tools and technologies .</h4>
+ <h4  >Hi , I am a Final year undergraduate student at IIIT Jabalpur. I am a self-taught developer , and loves to explore new tools and technologies .</h4>
  <p>
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=parthgpta&layout=compact&hide_border=true&langs_count=10&hide=tex,Batchfile,php,PowerShell,Tcl">
   </p>
